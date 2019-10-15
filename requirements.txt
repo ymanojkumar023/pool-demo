@@ -22,9 +22,6 @@ kiwisolver==1.1.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
-mkl-fft==1.0.14
-mkl-random==1.1.0
-mkl-service==2.3.0
 numpy==1.16.5
 Pillow==6.2.0
 protobuf==3.10.0
